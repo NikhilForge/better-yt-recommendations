@@ -66,9 +66,9 @@ Report layout changes: If YouTube changed its layout, submit a report using the 
 
 ## A keyboard shortcut does nothing
 
-The extension configures default shortcuts for toggling the filter (`Alt+Shift+F`)
-and toggling Hide Shorts (`Alt+Shift+S` on Windows/Linux, `Control+Shift+S` on Mac,
-and `Alt+Shift+H` on ChromeOS):
+The extension configures default shortcuts for toggling the filter (`Alt+Shift+F`
+on Windows/Linux, `Control+Shift+F` on Mac) and toggling Hide Shorts (`Alt+Shift+S`
+on Windows/Linux, `Control+Shift+S` on Mac, and `Alt+Shift+H` on ChromeOS):
 
 - **Conflicting shortcuts**: If another Chrome extension already uses a shortcut,
   Chrome leaves it unset. The options page will display **Not set** next to that
